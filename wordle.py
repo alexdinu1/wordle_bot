@@ -56,7 +56,9 @@ def play():
                 
                 elif result[i] == "y":
                     # Check that the letter exists but not in the same position
-                    if k[i] == word[i] or word[i] not in k:
+                    if k[i] == word[i]:
+                        remove_word = True
+                    if word[i] not in k:
                         remove_word = True
                 
                 elif result[i] == "b":
@@ -79,12 +81,14 @@ def play():
         
         if words:
             word = next_word()
-            print("this is the word!!!! ", word)
-            words.remove(word)
+            print("try this word!!!! ", word)
         else:
             print("No words left to guess.")
             break
     
+    if result == "ggggg":
+        print("You guessed the word!!!!")
+
     return word
 
 play()
