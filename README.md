@@ -1,3 +1,4 @@
+CREATED BY ALEX DINU                                                                                                                                              SEPTEMBER 2024
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INFO
 Intelligent agent that solves the game Wordle based on user input.
@@ -8,9 +9,6 @@ This is not an optimal solution and may have difficulties with some words, howev
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 HOW TO PLAY
 The agent will suggest a starting word based on the probability function. The user then needs to input a string representing the feedback from the Wordle game
 
