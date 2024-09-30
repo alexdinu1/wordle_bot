@@ -12,8 +12,8 @@ CREATED BY ALEX DINU
 # HOW TO PLAY:
 The agent will suggest a starting word based on the probability function. The user then needs to input a string representing the feedback from the Wordle game
 
-# EXAMPLE:
--Word suggested by agent: clods
--User input: gggyb
--Actual solution: cloud
+### EXAMPLE:
+- Word suggested by agent: clods
+- User input: gggyb
+- Actual solution: cloud
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
