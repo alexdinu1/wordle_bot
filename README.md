@@ -13,7 +13,7 @@ CREATED BY ALEX DINU
 The agent will suggest a starting word based on the probability function. The user then needs to input a string representing the feedback from the Wordle game
 
 ### EXAMPLE:
-- Word suggested by agent: clods
-- User input: gggyb
-- Actual solution: cloud
+- Word suggested by agent: `clods`
+- User input: `gggyb`
+- Actual solution: `cloud`
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
