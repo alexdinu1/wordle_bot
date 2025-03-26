@@ -23,7 +23,7 @@ This is an intelligent agent that solves the game **Wordle** based on user input
 `clods`
 #### **User's Input (Wordle Feedback):**  
 `gggyb`
-#### **Agent' next Suggested Word (Actual Solution):**  
+#### **Agent's next Suggested Word (Actual Solution):**  
 `cloud`
 
 
